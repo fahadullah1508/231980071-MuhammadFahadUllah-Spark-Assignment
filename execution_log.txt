@@ -1,0 +1,36 @@
+
+Execution Log
+========================================
+
+Student Name : Muhammad Fahadullah
+Roll No      : 231980071
+Date         : 03-08-2026 21:02:48
+
+Environment
+----------------------------------------
+Platform           : Google Colab
+Operating System   : Linux
+Python Version     : 3.12.13
+Apache Spark       : 4.0.3
+Spark Master       : local[*]
+
+Assignment Parts
+----------------------------------------
+[✓] Part 1 - Environment Setup
+[✓] Part 2 - Data Loading
+[✓] Part 3 - Exploratory Data Analysis
+[✓] Part 4 - Data Cleaning
+[✓] Part 5 - Spark Transformations
+[✓] Part 6 - Spark SQL
+[✓] Part 7 - Window Functions
+[✓] Part 8 - Performance Optimization
+[✓] Part 9 - Spark UI Analysis
+
+Dataset Statistics
+----------------------------------------
+Total Records : 2754895
+Total Columns : 19
+
+Status
+----------------------------------------
+Execution Completed Successfully.
